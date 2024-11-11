@@ -26,7 +26,7 @@
         </tr>
       </thead>
       <tbody>
-        <?php
+       <?php
 
         $conexion = mysqli_connect(getenv('MYSQL_HOST'), getenv('MYSQL_USER'), getenv('MYSQL_PASSWORD'), "PRUEBA");
 
@@ -42,8 +42,8 @@
          "</td><td>" . $fila->pais .
          "</td><td>" . $fila->codigo_postal .
          "</td></tr>";
-       }
-       ?>
+        }
+      ?>
      </tbody>
    </table>
  </div>
