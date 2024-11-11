@@ -18,7 +18,7 @@
         <tr>
           <th>Nombre</th>
           <th>Historial Crediticio</th>
-          <th>Direccion</th>
+          <th>Direccionnnnnnnn</th>
           <th>Ciudad</th>
           <th>Provincia</th>
           <th>Pais</th>
